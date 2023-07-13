@@ -5,7 +5,6 @@ Dashboard showing best and worst states for Retirees.
 # Project Objective:
 Helping Retirees determine the best and worst state to retire using their affordability, Well-Being, Culture and Diversity, Weather and Crime to analyze their choice.
 
-
 # Data Source:
 https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/
 
